@@ -61,3 +61,5 @@ def func():
 
     # Starting the bot's infinity polling
     bot.infinity_polling()
+if __name__ == '__main__':
+    app.run()      
