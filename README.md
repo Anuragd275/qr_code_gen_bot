@@ -46,4 +46,4 @@ We welcome contributions from everyone. Here are some ways you can contribute:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [License](https://github.com/Anuragd275/qr_code_gen_bot/blob/main/LICENSE) file for details.
