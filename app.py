@@ -9,7 +9,7 @@ app = Flask(__name__)
 def func():
    
     # Telegram Bot API Token
-    TOKEN = "6213546095:AAHZAn1B2wzzjyFkV6bA_4JxvtRPvx7Fa3Q"
+    TOKEN = "YOUR_TELEGRAM_TOKEN_HERE"
     bot = telebot.TeleBot(TOKEN)
 
     # Setting the bot's username for generating QR code caption
