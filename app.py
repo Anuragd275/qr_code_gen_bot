@@ -2,12 +2,17 @@
 from flask import Flask
 import qrcode
 import telebot
+import time
+import webbrowser
 from functions import * # Importing custom functions from 'functions.py'
 app = Flask(__name__)
 
 @app.route('/')
 def func():
-   
+    url = "https://qr-code-bot.onrender.com/"
+    while True:
+        time.sleep(5)
+        webbrowser.reload()
     # Telegram Bot API Token
     TOKEN = "YOUR_TELEGRAM_TOKEN_HERE"
     bot = telebot.TeleBot(TOKEN)
