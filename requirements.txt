@@ -2,3 +2,5 @@ pyTelegramBotAPI
 qrcode
 gunicorn
 Flask
+time
+webbrowser
