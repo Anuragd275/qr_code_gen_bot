@@ -1,6 +1,2 @@
-pyTelegramBotAPI
+Telethon
 qrcode
-gunicorn
-Flask
-time
-webbrowser
