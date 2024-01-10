@@ -1,4 +1,2 @@
-pyTelegramBotAPI
+Telethon
 qrcode
-gunicorn
-Flask
