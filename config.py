@@ -1,3 +1,3 @@
-API_ID = "Values from Telegram"
-API_HASH = "Values from Telegram"
-BOT_TOKEN = "Values from Telegram"
+API_ID = 13986002
+API_HASH = "3c6f3449875cce2870148f987bfefdd2"
+BOT_TOKEN = "6326176659:AAHHR1ND4xam3JDJJsubi137BXq5YxbkR6Y"
